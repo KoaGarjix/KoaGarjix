@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KoaGarjix
 - 👀 I’m interested in coding and learning new stuff
-- 🌱 I’m currently learning Javascript Frontend and Node.js Backend. 
+- 🌱 I’m currently learning Git and python.
 - 💞️ I’m looking to learn and share what i can.
 - 📫 How to reach me ... github for now. 
 
